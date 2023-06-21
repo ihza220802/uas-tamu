@@ -1,7 +1,7 @@
 <!-- navbar -->
-<nav class="navbar navbar-dark bg-primary mb-4">
+<nav class="navbar navbar-dark bg-black mb-4">
       <div class="container-fluid">
-        <span class="navbar-brand mb-0 h1"><b>BUKU TAMU</b></span>
+        <span class="navbar-white text-white "><b>BUKU TAMU</b></span>
       </div>
     </nav>
     <!-- akhir navbar -->
